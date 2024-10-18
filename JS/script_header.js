@@ -201,9 +201,7 @@ function removerOpcoes() {
         removeElement("emails");
     } else if (currentPage.includes("reconsideracao.html")) {
         removeElement("reconsideracao");
-    } else if (currentPage.includes("reconsideracao.html")) {
-        removeElement("reconsideracao");
-    } else if (currentPage.includes("Prog_parcial.html")) {
+    } else if (currentPage.includes("vida_academica.html")) {
         removeElement("vida_academica");
     } else if (currentPage.includes("atualizacao_cadastral.html")) {
         removeElement("atualizacao_cadastral");
